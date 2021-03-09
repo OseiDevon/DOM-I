@@ -1,5 +1,6 @@
 const siteContent = {
   "nav": {
+    nav: {
     "nav-item-1": "Services",
     "nav-item-2": "Product",
     "nav-item-3": "Vision",
@@ -12,6 +13,11 @@ const siteContent = {
     "h1": "DOM Is Awesome",
     "button": "Get Started",
     "img-src": "img/header-img.png"
+
+    cta: {
+      h1: "DOM Is Awesome",
+      button: "Get Started",
+      "img-src": "img/header-img.png",
   },
   "main-content": {
     "features-h4":"Features",
